@@ -2,6 +2,8 @@
 
 An interactive video lesson on two week-7 calculus topics: the Mean Value Theorem and Newton's Method.
 
+**[Watch the lesson](https://zohaibkhawar.github.io/mvt-newton-video/)**
+
 - About 6 minutes, in 11 chapters, with graphs that draw themselves on graph paper
 - Captions are always on, with optional narration from your browser's built-in voice
 - Play, pause, seek, chapter jumps, and speeds from 0.75× to 1.5×
